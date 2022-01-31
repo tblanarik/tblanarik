@@ -9,4 +9,4 @@ I'm interested in many things, but what I love about software development is del
 - [traffic predictions](https://github.com/tblanarik/WSDOTTrafficData) :car:
 
 ### Feedback 
-Fellow Hubbers and Microsofties can give me anonymous feedback here: https://aka.ms/feedback4trevor 
+Fellow Hubbers can give me anonymous feedback here: https://aka.ms/feedback4trevor 
