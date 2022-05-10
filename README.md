@@ -7,6 +7,3 @@ I'm interested in many things, but what I love about software development is del
 - [geometry / flat patterns / shape nesting](https://patents.google.com/patent/US10279928B2/en?inventor=blanarik&oq=inventor:blanarik) :airplane:  
 - [routing / path planning](https://patents.google.com/patent/US9157746B2/en?inventor=blanarik&oq=inventor:blanarik) :ship:
 - [traffic predictions](https://github.com/tblanarik/WSDOTTrafficData) :car:
-
-### Feedback 
-Fellow Hubbers can give me anonymous feedback here: https://aka.ms/feedback4trevor 
