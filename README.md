@@ -1,6 +1,6 @@
 :evergreen_tree: Hey, I'm Trevor! I'm a software engineering manager at GitHub. 
 
-I'm interested in many things, but what I love about software development is delighting customers and helping other engineers do their best work. 
+I focus on A/B testing, growth, and making sure our users get the _most_ out of this site. I love helping other engineers - on and off my team - do their best work! 💻
 
 ### Past Projects
 - [A/B testing / experiment quality debugging](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/diagnosing-sample-ratio-mismatch-in-a-b-testing/) :test_tube:
