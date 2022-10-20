@@ -7,3 +7,6 @@ I focus on A/B testing, growth, and making sure our users get the _most_ out of 
 - [geometry / flat patterns / shape nesting](https://patents.google.com/patent/US10279928B2/en?inventor=blanarik&oq=inventor:blanarik) :airplane:  
 - [routing / path planning](https://patents.google.com/patent/US9157746B2/en?inventor=blanarik&oq=inventor:blanarik) :ship:
 - [traffic predictions](https://github.com/tblanarik/WSDOTTrafficData) :car:
+
+
+<img src="https://octodex.github.com/images/spectrocat.png" width="448" height="448" />
