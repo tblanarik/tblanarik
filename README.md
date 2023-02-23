@@ -1,4 +1,4 @@
-[:evergreen_tree:]((https://libraryofbabel.info/bookmark.cgi?trevor_blanarik_library_of_babel)) Hey, I'm Trevor! I'm a software engineering manager at GitHub. 
+[:evergreen_tree:](https://libraryofbabel.info/bookmark.cgi?trevor_blanarik_library_of_babel) Hey, I'm Trevor! I'm a software engineering manager at GitHub. 
 
 I focus on A/B testing, growth, and making sure our users get the _most_ out of this site. I love helping other people - on and off my team - do their best work! 💻
 
