@@ -1,4 +1,4 @@
-[:evergreen_tree:](https://libraryofbabel.info/bookmark.cgi?trevor_blanarik_library_of_babel) Hey there, I'm Trevor and I manage a team in GitHub's Billing organization.
+[:evergreen_tree:](https://ki7hsg.com) Hey there, I'm Trevor and I manage a team in GitHub's Billing organization.
 
 I've got a background in A/B testing and experimentation, which I'm quite passionate about, and I've also spent a good part of my career doing aircraft manufacturing automation/optimization. I also enjoy helping engineers find the right mentor for them in the company, as well as being a mentor myself.
 
